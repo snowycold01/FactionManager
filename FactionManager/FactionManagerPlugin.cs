@@ -21,13 +21,13 @@ namespace snowycold.FactionManager
         protected override void Load()
         {
             Instance = this;
-            Logger.Log($"{Name} {Assembly.GetName().Version.ToString(3)} has been loaded!");
+            Logger.Log("\n-=-=-=-Faction Manager v1.0.0-=-=-=-\n-=-By: snowycold-=-=-\n-=-=-=-Has Been Loaded-=-=-=-");
             U.Events.OnPlayerConnected += OnPlayerConnected;
         }
 
         protected override void Unload()
         {
-            Logger.Log($"{Name} has been unloaded!");
+            Logger.Log("\n-=-=-=-Faction Manager v1.0.0-=-=-=-\n-=-By: snowycold-=-=-\n-=-=-=-Has Been Unloaded-=-=-=-");
             U.Events.OnPlayerConnected -= OnPlayerConnected;
         }
 
