@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactionManager", "FactionManager\FactionManager.csproj", "{7B1504B6-7CAA-4948-8CDB-27DC9C767CCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B1504B6-7CAA-4948-8CDB-27DC9C767CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B1504B6-7CAA-4948-8CDB-27DC9C767CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B1504B6-7CAA-4948-8CDB-27DC9C767CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B1504B6-7CAA-4948-8CDB-27DC9C767CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
